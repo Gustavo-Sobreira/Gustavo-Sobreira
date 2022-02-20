@@ -2,11 +2,7 @@
 - 🎓 - Curso Sistemas de Informações
 - 🧑🏻‍💻 - Trabalho no suporte
 - 📩 - gustavosobreira1@gmail.com  
-- 👅 - Estudo linguagens:
-   * Python
-   * Java Script
-   * HTML
-   * CSS
+
   
   
 <div>
