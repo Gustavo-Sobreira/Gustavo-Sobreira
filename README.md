@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**Gustavo-Sobreira/Gustavo-Sobreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 - Oi seja muito bem-vindo(a), espero poder ajudar!
+- 🎓 - Curso Sistemas de Informações
+- 🧑🏻‍💻 - Trabalho no suporte
+- 📩 - gustavosobreira1@gmail.com  
+- 👅 - Estudo linguagens:
+   * Python
+   * Java Script
+   * HTML
+   * CSS
+  
+  
+<div>
+  <a href="https://github.com/Gustavo-Sobreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Sobreira&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Sobreira&layout=compact&langs_count=16&theme=darcula"/>
+</div>
+  
