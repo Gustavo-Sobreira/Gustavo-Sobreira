@@ -1,6 +1,5 @@
 ## 👋 - Oi seja muito bem-vindo(a), espero poder ajudar!
 - 🎓 - Curso Sistemas de Informações
-- 🧑🏻‍💻 - Trabalho no suporte
 - 📩 - gustavosobreira1@gmail.com  
 
   
